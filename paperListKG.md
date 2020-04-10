@@ -37,6 +37,7 @@
 * Robocrystallographer: automated crystal structure text descriptions and analysis. MRS Communications 2019.
 * [Machine learning for heterogeneous catalyst design and discovery](https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.16198). AIChE Journal 2018.
 * [Modelling Chemical Reasoning to Predict and Invent Reactions](https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201604556), 2017.
+* [Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature](https://chemrxiv.org/articles/Named_Entity_Recognition_and_Normalization_Applied_to_Large-Scale_Information_Extraction_from_the_Materials_Science_Literature/8226068?utm_source=Data-Driven+Materials+Science+Newsletter&utm_campaign=6a2c24c6a4-EMAIL_CAMPAIGN_2018_04_15_COPY_01&utm_medium=email&utm_term=0_60e6d7fee0-6a2c24c6a4-301846689), ChemRxiv, 2020
 
 ## Groups
 https://ceder.berkeley.edu/text-mined-synthesis/
@@ -44,3 +45,6 @@ https://ceder.berkeley.edu/text-mined-synthesis/
 https://dmse.mit.edu/people/elsa-a-olivetti
 
 https://en.wikipedia.org/wiki/Materials_informatics Companies and organisations
+
+## Video demo
+* [How AI impacts R&D in Materials and Chemicals](https://vimeo.com/399239558/75bfd038da?utm_source=Data-Driven+Materials+Science+Newsletter&utm_campaign=7437269b39-EMAIL_CAMPAIGN_2018_04_15_COPY_01&utm_medium=email&utm_term=0_60e6d7fee0-7437269b39-301846689)
